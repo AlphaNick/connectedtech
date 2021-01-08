@@ -1,0 +1,29 @@
+{
+    "name": "nezox",
+    "version": "1.0.0",
+    "description": "ConnectedTech",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "next": "^10.0.2",
+        "nodemailer": "^6.4.16",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^17.0.1",
+        "react-accessible-accordion": "^3.3.3",
+        "react-dom": "^17.0.1",
+        "react-hook-form": "^6.11.3",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-tabs": "^3.1.1",
+        "sass": "^1.29.0",
+        "sweetalert2": "^10.10.1",
+        "sweetalert2-react-content": "^3.2.1"
+    }
+}
