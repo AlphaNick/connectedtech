@@ -90,7 +90,7 @@ const Navbar = () => {
                                             </li>
 
                                             <li className="nav-item">
-                                                <Link href="/comminications-solutions" activeClassName="active">
+                                                <Link href="/communication-solutions" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">Comminications Solutions</a>
                                                 </Link>
                                             </li>
