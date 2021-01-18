@@ -15,7 +15,7 @@ const OurChallenges = () => {
 							<div className="overly-two">
 								<i className="flaticon-threat"></i>
 								<h3>Identifying Threats</h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>Using proven risk identification methodologies to find threats</p>
 								<span className="flaticon-threat"></span>
 							</div>
 						</div>
@@ -26,7 +26,7 @@ const OurChallenges = () => {
 							<div className="overly-two">
 								<i className="flaticon-cyber"></i>
 								<h3>Cyber Risk Assessment</h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>Receive critical insights into the Security of your network</p>
 								<span className="flaticon-cyber"></span>
 							</div>
 						</div>
@@ -37,7 +37,7 @@ const OurChallenges = () => {
 							<div className="overly-two">
 								<i className="flaticon-cyber-security-1"></i>
 								<h3>Testing Cyber Security</h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>A security assessment of any network service</p>
 								<span className="flaticon-cyber-security-1"></span>
 							</div>
 						</div>
@@ -48,7 +48,7 @@ const OurChallenges = () => {
 							<div className="overly-two">
 								<i className="flaticon-password"></i>
 								<h3>Managing Cloud Security</h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>Respond to security risks with greater speed and accuracy</p>
 								<span className="flaticon-password"></span>
 							</div>
 						</div>

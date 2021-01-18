@@ -12,7 +12,7 @@ const Features = () => {
 									<i className="flaticon-testing"></i>
 									<h3>Cloud Computing</h3>
 								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+								<p>Connected Tech comprises a number of applications that are available on the cloud platform to do specific tasks and link to other applications and services</p>
 							</div>
 						</div>
 					</div>
@@ -24,7 +24,7 @@ const Features = () => {
 									<i className="flaticon-cybercrime"></i>
 									<h3>Cyber Security</h3>
 								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+								<p>With Connected Tech, we will take away the worry of cyber security. We will give you the complete peace of mind that you are both compliant and covered.</p>
 							</div>
 						</div>
 					</div>
@@ -36,7 +36,7 @@ const Features = () => {
 									<i className="flaticon-cyber-security"></i>
 									<h3>Managed Services</h3>
 								</div>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+								<p>Our approach to managed services makes your data more secure and more accessible, and makes your business more productive, cost-effective and compliant.</p>
 							</div>
 						</div>
 					</div>

@@ -23,22 +23,18 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Cyber Security</h2>
-                                    <p>Duiss autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>Cyber security is a very real threat to many companies and individuals. There is a lot to be concerned about in the world of Cyber Security, from external threats, internal vulnerabilities, data security, architecting cloud computing and secure networks</p>
+                                    <p>Putting a plan in place for these threats and vulnerabilities is a must for any company, we provide you with audits and compliance, test your security measures and put in place exactly what you need to be safe and secure, and also help you sleep at night.</p>
+                                    <p>Connected Tech offers companies simple solutions and suggestions to make your workplace more secure. Call us today for a free quotation and discuss what your company needs.</p>
                                     <div className="services-details-one">
                                         <img src="/images/services-details/services-details-1.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
-                                    <h3>What is Cyber Security?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
-                                </div>
-
-                                <div className="services-content">
-                                    <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
+                                    <h3>What Connected Tech bring you</h3>
+                                    <p>With Connected Tech, we will take away the worry of cyber security. We will give you the complete peace of mind that you are both compliant and covered.</p>
+                                    <p>We take cyber threats very seriously. At Connected Tech we provide the best cyber security methods, unique technologies and robust processes into an end-to-end managed services, along with Communication Solutions, Consultancy and Strategy</p>
                                 </div>
 
                                 <RelatedServices />

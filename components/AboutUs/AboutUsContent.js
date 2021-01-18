@@ -23,7 +23,7 @@ const AboutUsContent = () => {
 						<div className="about-content">
 							<div className="about-title">
 								<span>About Us</span>
-								<h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat atque quibusdam fuga natus non necessitatibus eveniet maiores nostrum</h2>
+								<h2>Here at Connected Tech, we provide a huge array of expert solutions to Cyber Security, Manages Services, Cloud Computing and Consulting &amp; Strategy. Using the worlds leading technologies across your data and security, giving you confidence in growing your business safe.</h2>
 							</div>
  
                             <Tabs>
@@ -34,70 +34,59 @@ const AboutUsContent = () => {
                                 </TabList>
                             
                                 <TabPanel>
-                                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat atque quibusdam fuga natus non necessitatibus eveniet maiores nostrum esse ut voluptates sint dolores, voluptatum consequatur ad est enim perferendis reprehenderit.</p>
+                                    <p>Our cybersecurity refers to the avoidance of risk to your digital assets connected to the big world wide web, any device you have connected to the internet can be at risk, as well as networks, software, hardware, databases and email accounts.</p>
 
                                     <ul>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cyber Security
+                                            Smart
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Managed Services
+                                           Safe
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cloud Computing
-                                        </li>
-                                        <li>
-                                            <i className="bx bx-check-circle"></i>
-                                            Consulting &amp; Strategy
+                                            Secure
                                         </li>
                                     </ul>
                                 </TabPanel>
 
                                 <TabPanel>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat atque quibusdam fuga natus non necessitatibus eveniet maiores nostrum esse ut voluptates sint dolores, voluptatum consequatur ad est enim perferendis reprehenderit.</p>
+                                <p>At Connected Tech we provide all aspects of Managed IT Services, from cloud computing to Helpdesk Support, delivering your company value through our proven methodologies. This is why we maintain our 98+% customer satisfaction..</p>
 
                                     <ul>
                                     <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cyber Security
+                                            Dedicated Support
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Managed Services
+                                            System Backups
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cloud Computing
+                                            Highly trained
                                         </li>
-                                        <li>
-                                            <i className="bx bx-check-circle"></i>
-                                            Consulting &amp; Strategy
-                                        </li>
+                                  
                                     </ul>
                                 </TabPanel>
 
                                 <TabPanel>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Placeat atque quibusdam fuga natus non necessitatibus eveniet maiores nostrum esse ut voluptates sint dolores, voluptatum consequatur ad est enim perferendis reprehenderit.</p>
+                                <p>We will work closely with you to understand your requirements and design a cloud infrastructure that is right for you. Our Cloud Services will help you and your business become more productive, enabling your employees to stay connected whether they are in a different office or working from home. This enhances your ability to collaborate more efficiently.</p>
 
                                     <ul>
                                     <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cyber Security
+                                            Communication
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Managed Services
+                                            Collaboration
                                         </li>
                                         <li>
                                             <i className="bx bx-check-circle"></i>
-                                            Cloud Computing
-                                        </li>
-                                        <li>
-                                            <i className="bx bx-check-circle"></i>
-                                            Consulting &amp; Strategy
+                                            Customisation
                                         </li>
                                     </ul>
                                 </TabPanel>

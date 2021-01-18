@@ -23,23 +23,18 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Helpdesk</h2>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>We help bulk up your internal IT resources and move from ordinary support to decisive business enablers and succeed challenges quicker, by choosing Connected Tech you can feel safe that you're in the right hands.</p>
+                                    <p>Increase your capabilities &amp; boost your IT operations by using the resources Connected Tech can offer, with our experience and technology we take on your day-to-day challenges and give you the support your business needs</p>
                                     <div className="services-details-one">
-                                        <img src="/images/services-details/services-details-1.jpg" alt="Image" />
+                                        <img src="/images/services-details/services-details-4.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
-                                    <h3>What is Helpdesk?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
+                                    <h3>Our Helpdesk Services</h3>
+                                    <p>We are dedicated to providing our customers with excellent support and experience, solving your technical issues swiftly and efficiently, all by a certified and tenured technical engineer.</p>
                                 </div>
 
-                                <div className="services-content">
-                                    <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
-                                </div>
 
                                 <RelatedServices />
                             </div>

@@ -23,23 +23,20 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Cloud Computing</h2>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>Connected Tech provides your company with expert knowledge and cloud-based IT solutions. We provide your company with the best solutions to cloud computing based on your individual requirements.</p>
+                                    <p>Connected Tech will help you build the right cloud computing solution for your company, by setting the correct strategy and plan of action to ensure that your companies IT Structure is aligned with your companies needs and goals.</p>
                                     <div className="services-details-one">
-                                        <img src="/images/services-details/services-details-1.jpg" alt="Image" />
+                                        <img src="/images/services-details/services-details-2.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
-                                    <h3>What is Cloud Computing?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
+                                    <h3>The Cloud Computing We Offer</h3>
+                                    <p>We use our proven methodologie based on a companies needs and dont just use our cloud computing services and catch all solution. We work with companies to enable secure remote working, to offer your employees to work from home or another office and stay connected. </p>
+                                    <p>Connected Tech comprises a number of applications that are available on the cloud platform to do specific tasks and link to other applications and services</p>
                                 </div>
 
-                                <div className="services-content">
-                                    <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
-                                </div>
+                             
 
                                 <RelatedServices />
                             </div>

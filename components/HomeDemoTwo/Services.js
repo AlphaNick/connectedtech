@@ -7,7 +7,7 @@ const Services = () => {
 			<div className="container">
 				<div className="section-title">
 					<span>ConnectedTech Services</span>
-					<h2>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</h2>
+					<h2>The services we provide, maintain, evaluate and create solutions  </h2>
 				</div>
 
 				<div className="row">
@@ -26,7 +26,7 @@ const Services = () => {
                                         <a>Cyber Security</a>
                                     </Link>
                                 </h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>View more on our Cyber Security</p>
                                 <Link href="/cyber-security">
                                     <a className="read-more">
                                         Read More <i className="flaticon-right-arrow"></i>
@@ -51,7 +51,7 @@ const Services = () => {
                                         <a>Managed Services</a>
                                     </Link>
                                 </h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>View more on our Managed Services</p>
 								<Link href="/managed-services">
                                     <a className="read-more">
                                         Read More <i className="flaticon-right-arrow"></i>
@@ -76,7 +76,7 @@ const Services = () => {
                                         <a>Cloud Computing</a>
                                     </Link>
                                 </h3> 
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>View more on our Cloud Computing</p>
 								<Link href="/cloud-computing">
                                     <a className="read-more">
                                         Read More <i className="flaticon-right-arrow"></i>
@@ -101,7 +101,7 @@ const Services = () => {
                                         <a>Helpdesk</a>
                                     </Link>
                                 </h3>
-								<p>Lorem ipsum dolor sit amet, con sectetur adipiscing elit sed do.</p>
+								<p>View more on our Helpdesk Services</p>
 								<Link href="/helpdesk">
                                     <a className="read-more">
                                         Read More <i className="flaticon-right-arrow"></i>

@@ -23,22 +23,18 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Managed Services</h2>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>Connected Tech offers the best and fully secure Managed Services that keep your business running 24/7 365 days of the year, giving you more time to focus on what's important, your business and customers</p>
+                                    <p>We deliver a complete array of fully secure Managed Services based upon a multitude of services. Connecting creativity and technology into a single platform to help fuel innovation and accelerate business growth. We begin with a complete IT security health check. Succeeded by an IT operational capability assessment which benchmarks your business’s current and desired state of IT operational maturity using only the best Operations Framework. We will provide a clearly defined action plan which helps you to recognise your business goals in the form of a complete Service Delivery Plan.</p>
                                     <div className="services-details-one">
-                                        <img src="/images/services-details/services-details-1.jpg" alt="Image" />
+                                        <img src="/images/services-details/services-details-5.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
                                     <h3>What is Managed Services?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
-                                </div>
-
-                                <div className="services-content">
-                                    <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
+                                    <p>It is now an everyday occurrence in nearly all business models to sustain a digital alteration. Where old and on-site hardware and infrastructure get replaced with digital systems and services.</p>
+                                    <p>But shifting from old to new systems and IT processes can be a daunting task. There are infinite advantages but to get the most out of digital transformation, IT teams need to have a very careful and studied method, which can be time-consuming and demand a lot of continuous work post-transformation.</p>
+                                    <p>That's why Connected Tech is the number one go to in all aspects of Managed Services, we provide in-depth solutions to all your business needs for Managed Services. Call us today to discuss how we can help your business.</p>
                                 </div>
 
                                 <RelatedServices />

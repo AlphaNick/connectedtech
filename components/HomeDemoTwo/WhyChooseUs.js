@@ -7,7 +7,7 @@ const WhyChooseUs = () => {
 				<div className="counter-max-wide">
 					<div className="section-title white-title">
 						<span>Why Choose Us</span>
-						<h2>We Have a Lot of Skills in Cyber Security</h2>
+						<h2>Here are some stats on our Cyber Security</h2>
 					</div>
 	
 					<div className="row">
@@ -15,7 +15,7 @@ const WhyChooseUs = () => {
 							<div className="single-counter overly-one">
 								<div className="overly-two">
 									<i className="flaticon-authentication"></i>
-									<h2>365</h2>
+									<h2>3650</h2>
 									<h3>Clients Protection</h3>
 								</div>
 							</div>
@@ -35,8 +35,8 @@ const WhyChooseUs = () => {
 							<div className="single-counter overly-one">
 								<div className="overly-two">
 									<i className="flaticon-web-protection"></i>
-									<h2>567</h2>
-									<h3>Website Protection</h3>
+									<h2>5674</h2>
+									<h3>Websites Protected</h3>
 								</div>
 							</div>
 						</div>

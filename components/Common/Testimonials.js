@@ -35,7 +35,7 @@ const Testimonials = () => {
                     > 
 						<div className="testimonials-item">
 							<i className="flaticon-quote"></i>
-							<p>“Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”</p> 
+							<p>“Connected Tech was worth a fortune to my company, worth much more than I paid. I STRONGLY recommend Connected Tech to EVERYONE interested in running a secure online business!”</p> 
 							
 							<ul>
 								<li><i className="bx bxs-star"></i></li>
@@ -45,13 +45,13 @@ const Testimonials = () => {
 								<li><i className="bx bxs-star"></i></li>
 							</ul>
 
-							<h3>Dwayne Johnson</h3>
-							<span>CEO</span>
+							<h3>Steve Townsley</h3>
+							<span>Director</span>
 						</div>
 
 						<div className="testimonials-item">
 							<i className="flaticon-quote"></i>
-							<p>“Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.”</p> 
+							<p>“I will refer everyone I know. Best service ever! I'm good to go, knowing I'm 100% safe and secure. I can't thank Connected Tech enough.”</p> 
 							
 							<ul>
 								<li><i className="bx bxs-star"></i></li>
@@ -61,7 +61,7 @@ const Testimonials = () => {
 								<li><i className="bx bxs-star"></i></li>
 							</ul>
 
-							<h3>Mark Hamel</h3>
+							<h3>Malinda Morris</h3>
 							<span>Manager</span>
 						</div>
                     </OwlCarousel> : ''}

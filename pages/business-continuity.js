@@ -23,22 +23,17 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Business Continuity</h2>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>At Connected Tech we support your companies software compliance, provide comprehensive sloutions and identify resk, giving your company management solutions that work time and time again.</p>
+                                    <p>We tailor our backup and continiutiy solutions to suit your companies needs, whether it's a single backup or server downtime, we aim to find the right solution for the problem and keep your business running. </p>
+                                    <p>Connected Tech have the best systems in place to work on your solutions remotley, giving you more time to focus on your business.</p>
                                     <div className="services-details-one">
-                                        <img src="/images/services-details/services-details-1.jpg" alt="Image" />
+                                        <img src="/images/services-details/services-details-3.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
-                                    <h3>What is Business Continuity?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
-                                </div>
-
-                                <div className="services-content">
                                     <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
+                                    <p>If your data is non-existent you have no business, the cost of downtime can be big, revenue dops, orders lost, damage to files that can't be replaced, you can even incur fines, if you don't have a plan of action in place, then disaster can strike, that's why at Connected Tech we offer bespoke solutions that are right for your business. Contact us today to discuss what we can offer your business.</p>
                                 </div>
 
                                 <RelatedServices />

@@ -25,7 +25,7 @@ const Contact = () => {
                         <div className="col-lg-4">
                             <div className="contact-info">
                                 <h3>Our contact details</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</p>
+                                <p>Call or email us today and find out how we can help you and your business.</p>
 
                                 <ul className="address">
                                     <li className="location">
@@ -47,7 +47,7 @@ const Contact = () => {
                                     </li>
                                 </ul>
 
-                                <div className="sidebar-follow-us">
+                                {/* <div className="sidebar-follow-us">
                                     <h3>Follow us:</h3>
                 
                                     <ul className="social-wrap">
@@ -72,7 +72,7 @@ const Contact = () => {
                                             </a>
                                         </li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

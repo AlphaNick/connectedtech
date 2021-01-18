@@ -23,23 +23,18 @@ const ServicesDetails = () => {
                             <div className="services-details-content">
                                 <div className="services-content">
                                     <h2>Communication Solutions</h2>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat dolor in hendrerit in vulputate feugiat.</p>
-
+                                    <p>Connected Tech can provide the advice and expertise you'll need to make an informed decision, by offering you our expert knowledge and experience on all our telecommunications Services. We do an in-depth analysis of how your business works to help identify your needs, giving you the perfect bespoke solution based on your companies needs.</p>
+                                    <p>We work with some of the best telecommunications providers in the country offering our customers flexibility and support that is second to none, making sure we get the solution that's right for you the first time.</p>
                                     <div className="services-details-one">
                                         <img src="/images/services-details/services-details-1.jpg" alt="Image" />
                                     </div>
                                 </div>
 
                                 <div className="services-content">
-                                    <h3>What is Communication Solutions?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. eum iriure dolor in hendrerit in vulputate</p>
+                                    <h3>Why Choose Us?</h3>
+                                    <p>We make multi-site configurations that are complex and have proven track records that help in maintaining and implementing innovative solutions that are right for your company and business, all within your budget.</p>
                                 </div>
 
-                                <div className="services-content">
-                                    <h3>Why is it Important?</h3>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. nulla facilisi. Lorem ipsum dolor sit</p>
-                                    <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</p>
-                                </div>
 
                                 <RelatedServices />
                             </div>
